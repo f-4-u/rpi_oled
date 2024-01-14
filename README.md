@@ -18,8 +18,8 @@ This Python script displays system statistics on an OLED display connected to a 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/display-stats-script.git
-    cd display-stats-script
+    git clone https://github.com/f-4-u/rpi_oled.git
+    cd rpi_oled
     ```
 
 2. **Create and Activate a Virtual Environment:**
